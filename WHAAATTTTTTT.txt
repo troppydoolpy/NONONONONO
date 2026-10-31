@@ -1,9 +1,9 @@
 --[[
-	Dex REContinued v1.2.0
-	Developed by Tesker103
+	Y'Dex BETA
+	Developed by Yoolz
 	
-	A recontinuation of the old DEX Explorer with many features from the original roadmap
-	Its much better now!
+    haaiiiiii this is supposed to be private dont skid it plzzzsz
+
 ]]
 
 local nodes = {}
